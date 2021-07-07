@@ -181,4 +181,4 @@ while jwb == 'y':
         #jika jawab = t maka program akan berakhir    
     if jwb == "t":
         break
-print("\n==== PROGRAM TELAH BERAKHIR ====\n\t dibuat oleh : Pio Mario Renwarin")
+print("\n==== PROGRAM TELAH BERAKHIR ====\n\t dibuat oleh : Dimas Arief Maulana")
